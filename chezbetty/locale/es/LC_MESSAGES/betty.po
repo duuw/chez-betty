@@ -28,7 +28,7 @@ msgstr "error-mcard"
 
 #: chezbetty/views_user.py:165
 msgid "Deposit amount must be greater than $0.00. Card NOT charged."
-msgstr "Monto del deposito debe ser mayor a $0.00. Tarjeta NO cargada. "
+msgstr "Monto del depósito debe ser mayor a $0.00. Tarjeta NO cargada. "
 
 #: chezbetty/templates/deposit_edit.jinja2:3
 #: chezbetty/templates/deposit_edit.jinja2:4
@@ -137,7 +137,7 @@ msgid ""
 "in your browser."
 msgstr ""
 "Para depositar con tarjeta de crédito, por favor visita chezbetty.eecs.umich."
-"edu/user en tu navegador."
+"edu/user en tu navegador web."
 
 #: chezbetty/templates/purchase.jinja2:3 chezbetty/templates/purchase.jinja2:4
 #: chezbetty/templates/user_info.jinja2:39
@@ -395,7 +395,7 @@ msgid ""
 "put a warm one in to get cold (though, don't put it in front!). If you "
 "finish a box of food, grab a full box and replace it."
 msgstr ""
-"Betty es manejado por voluntario que tienen un tiempo limitado. Si coges una "
+"Betty es manejado por voluntarios que tienen un tiempo limitado. Si coges una "
 "bebida fría, pon una caliente para que se enfríe (pero no lo pongas al "
 "frente!). Si terminas una caja de comida, coge una llena y reemplázalo."
 
