@@ -1,7 +1,7 @@
 #
 # Spanish translations for PACKAGE package
 # This file is distributed under the same license as the PACKAGE package.
-# Wendy <duw@umich.edu>, 2015.
+# Wendy <duw@umich.edu>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE 1.0\n"
@@ -340,7 +340,7 @@ msgstr "Toca las preguntas para mostrar/esconder."
 
 #: chezbetty/templates/about.jinja2:22
 msgid "Who are the awesome people who run Chez Betty?"
-msgstr "Quiénes son las increíbles personas que dirigen Chez Betty?"
+msgstr "¿Quiénes son las increíbles personas que dirigen Chez Betty?"
 
 #: chezbetty/templates/about.jinja2:24
 msgid "Chez Betty is run by CSEG, the CSE graduate student group."
@@ -401,7 +401,7 @@ msgstr ""
 
 #: chezbetty/templates/about.jinja2:42
 msgid "How do I buy things from Chez Betty?"
-msgstr "Cómo compro cosas de Chez Betty?"
+msgstr "¿Cómo compro cosas de Chez Betty?"
 
 #: chezbetty/templates/about.jinja2:45
 msgid "Log in to Chez Betty by swiping your MCard at the terminal."
@@ -453,7 +453,7 @@ msgstr "Toca \"Submit Purchase\" y está listo!"
 
 #: chezbetty/templates/about.jinja2:61
 msgid "Wait... Couldn't people steal from this really easily?"
-msgstr "Espera... No es muy fácil para las personas robar?"
+msgstr "Espera... ¿No es muy fácil para las personas robar?"
 
 #: chezbetty/templates/about.jinja2:63
 msgid "Yes. (But please don't)."
@@ -490,7 +490,7 @@ msgstr ""
 
 #: chezbetty/templates/about.jinja2:75
 msgid "What if I don't have any money / Can my account balance go negative?"
-msgstr "Qué pasa si no tengo dinero / Puede mi saldo ponerse negativo?"
+msgstr "¿Qué pasa si no tengo dinero / Puede mi saldo ponerse negativo?"
 
 #: chezbetty/templates/about.jinja2:77
 msgid ""
@@ -508,7 +508,7 @@ msgstr ""
 
 #: chezbetty/templates/about.jinja2:85
 msgid "How does Betty set prices?"
-msgstr "Cómo fija el precio Betty?"
+msgstr "¿Cómo fija los precios Betty?"
 
 #: chezbetty/templates/about.jinja2:87
 msgid ""
@@ -530,7 +530,7 @@ msgstr ""
 
 #: chezbetty/templates/about.jinja2:93
 msgid "What does Betty do with her profits?"
-msgstr "Qué hace Betty con sus ganancias?"
+msgstr "¿Qué hace Betty con sus ganancias?"
 
 #: chezbetty/templates/about.jinja2:95
 msgid ""
@@ -713,7 +713,7 @@ msgstr "Administración"
 
 #: chezbetty/templates/index.jinja2:62
 msgid "Can you help translate Betty? E-mail chez-betty@umich.edu."
-msgstr "Puedes ayudar a traducir Betty? Contacta a chez-betty@umich.edu."
+msgstr "¿Puedes ayudar a traducir Betty? Contacta a chez-betty@umich.edu."
 
 #: chezbetty/templates/user/deposit_cc.jinja2:4
 #: chezbetty/templates/user/deposit_cc.jinja2:7
